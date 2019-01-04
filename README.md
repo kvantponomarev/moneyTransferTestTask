@@ -11,3 +11,12 @@
 }
 ```
 * Entry class: MoneyTransferServlet
+
+## To run it locally run:
+```
+gradle appRun
+```
+or
+```
+gradle buildProduct and go to build/output/moneyTrasfer/ and run start.sh or start.bat.
+```
