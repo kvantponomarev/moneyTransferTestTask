@@ -121,8 +121,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/MoneyTransferServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="663">
+              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -247,6 +247,9 @@
     <findStrings>
       <find>inter</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -976,6 +979,7 @@
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -989,6 +993,42 @@
             <path>
               <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
               <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="moneyTransfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moneyTransfer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="serverBaseDir_jetty9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="moneyTransfer" type="b2602c69:ProjectViewProjectNode" />
@@ -1090,7 +1130,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546560502068" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546562312161" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
@@ -1123,7 +1163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.moneyTransfer [appRun]">
+  <component name="RunManager" selected="Gradle.moneyTransfer [buildProduct]">
     <configuration name="moneyTransfer [appRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -1136,6 +1176,42 @@
         <option name="taskNames">
           <list>
             <option value="appRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="moneyTransfer [buildProduct]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildProduct" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="moneyTransfer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -1168,38 +1244,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyTransferServletTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moneyTransfer_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MoneyTransferServletTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoneyTransferServletTest.givenNonExistingAccountToTransferTo_whenDoPost_thenMoneyAreNotTransferredAndInternalServerErrorIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="moneyTransfer_test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MoneyTransferServletTest" />
-      <option name="METHOD_NAME" value="givenNonExistingAccountToTransferTo_whenDoPost_thenMoneyAreNotTransferredAndInternalServerErrorIsReturned" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.MoneyTransferServletTest" />
-      <item itemvalue="JUnit.MoneyTransferServletTest.givenNonExistingAccountToTransferTo_whenDoPost_thenMoneyAreNotTransferredAndInternalServerErrorIsReturned" />
       <item itemvalue="JUnit.All in moneyTransfer_test" />
       <item itemvalue="Gradle.moneyTransfer [appRun]" />
       <item itemvalue="Gradle.moneyTransfer [clean]" />
+      <item itemvalue="Gradle.moneyTransfer [build]" />
+      <item itemvalue="Gradle.moneyTransfer [buildProduct]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.moneyTransfer [buildProduct]" />
+        <item itemvalue="Gradle.moneyTransfer [build]" />
         <item itemvalue="Gradle.moneyTransfer [clean]" />
         <item itemvalue="Gradle.moneyTransfer [appRun]" />
         <item itemvalue="JUnit.All in moneyTransfer_test" />
-        <item itemvalue="JUnit.MoneyTransferServletTest" />
-        <item itemvalue="JUnit.MoneyTransferServletTest.givenNonExistingAccountToTransferTo_whenDoPost_thenMoneyAreNotTransferredAndInternalServerErrorIsReturned" />
       </list>
     </recent_temporary>
   </component>
@@ -1214,7 +1272,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546189705441</updated>
       <workItem from="1546189708407" duration="12117000" />
-      <workItem from="1546545833067" duration="14384000" />
+      <workItem from="1546545833067" duration="15426000" />
     </task>
     <servers />
   </component>
@@ -1251,7 +1309,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26501000" />
+    <option name="totallyTimeSpent" value="27543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1265,7 +1323,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12162162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12162162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1275,19 +1333,19 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32565528" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32565528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952344" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32962668" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32962668" />
       <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32962668" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32962668" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1535,8 +1593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MoneyTransferServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="663">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

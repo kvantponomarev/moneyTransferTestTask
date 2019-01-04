@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MoneyTransferServletTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-01-04T00:38:45" hostname="DESKTOP-HPO3S5L" time="0.504">
+  <properties/>
+  <testcase name="givenNonExistingAccountToTransferTo_whenDoPost_thenMoneyWereNotTransferredAndErrorReturned" classname="MoneyTransferServletTest" time="0.499"/>
+  <testcase name="givenNonExistingAccountToTransferFrom_whenDoPost_thenMoneyWereNotTransferredAndErrorReturned" classname="MoneyTransferServletTest" time="0.001"/>
+  <testcase name="givenValidMoneyTransferRequest_whenDoPost_thenMoneyAreTransferred" classname="MoneyTransferServletTest" time="0.001"/>
+  <testcase name="givenInvalidAmountToTransfer_whenDoPost_thenMoneyWereNotTransferredAndErrorReturned" classname="MoneyTransferServletTest" time="0.001"/>
+  <testcase name="givenTooBigAmountToTransfer_whenDoPost_thenMoneyWereNotTransferredAndErrorReturned" classname="MoneyTransferServletTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

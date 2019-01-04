@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.AccountTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-01-04T00:38:45" hostname="DESKTOP-HPO3S5L" time="0.05">
+  <properties/>
+  <testcase name="givenTwoTransfersInOppositeDirectionAtTheSameTime_whenTransfer_thenBothTransfersArePerformed" classname="model.AccountTest" time="0.044"/>
+  <testcase name="givenAccountAndValidAmountOfMoneyToWithdraw_whenWithdraw_thenMoneyAreWithdrawn" classname="model.AccountTest" time="0.0"/>
+  <testcase name="givenInvalidAmountToTransfer_whenTransfer_thenExceptionIsThrownAndBalancesRemainTheSame" classname="model.AccountTest" time="0.003"/>
+  <testcase name="givenToBigAmountToTransfer_whenTransfer_thenExceptionIsThrownAndBalancesRemainTheSame" classname="model.AccountTest" time="0.001"/>
+  <testcase name="givenAccountAndInvalidValidAmountOfMoneyToWithdraw_whenWithdraw_thenAnExceptionIsThrown" classname="model.AccountTest" time="0.001"/>
+  <testcase name="givenAccountAndMoneyToAdd_whenAdd_thenMoneyAreAdded" classname="model.AccountTest" time="0.0"/>
+  <testcase name="givenAccountFromAccountToAndValidAmountToTransfer_whenTransfer_thenMoneyAreTransferred" classname="model.AccountTest" time="0.0"/>
+  <testcase name="givenInvalidInitialBalance_whenCreatingAccount_thenThrowAnException" classname="model.AccountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

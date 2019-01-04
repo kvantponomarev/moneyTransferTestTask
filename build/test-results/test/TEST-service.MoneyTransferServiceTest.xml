@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.MoneyTransferServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-01-04T00:38:46" hostname="DESKTOP-HPO3S5L" time="0.039">
+  <properties/>
+  <testcase name="givenTwoExistingAccounts_whenTransfer_thenTransferMethodOfAccountFromIsInvoked" classname="service.MoneyTransferServiceTest" time="0.037"/>
+  <testcase name="givenNotExistingAccount_whenTransfer_thenThrowsAnException" classname="service.MoneyTransferServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

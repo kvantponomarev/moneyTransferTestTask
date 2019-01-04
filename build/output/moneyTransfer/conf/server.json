@@ -1,0 +1,17 @@
+{
+    "productName": "moneyTransfer",
+    "servletContainer": {
+        "id": "jetty9",
+        "version": "9.2.26.v20180806",
+        "description": "Jetty 9.2.26.v20180806"
+    },
+    "serverConfig": {
+        
+    },
+    "webApps": [
+        {
+            "contextPath": "/moneyTransfer",
+            "resourceBase": "webapps/moneyTransfer-1.0-SNAPSHOT.war"
+        }
+    ]
+}

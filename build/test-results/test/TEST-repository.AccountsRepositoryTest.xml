@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="repository.AccountsRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-01-04T00:38:46" hostname="DESKTOP-HPO3S5L" time="0.002">
+  <properties/>
+  <testcase name="givenIdOfNotExistingAccount_whenFind_thenReturnsEmptyOptional" classname="repository.AccountsRepositoryTest" time="0.001"/>
+  <testcase name="givenAddAnAccount_whenAdd_thenAccountIsAdded" classname="repository.AccountsRepositoryTest" time="0.0"/>
+  <testcase name="givenIdOfExistingAccount_whenFind_thenReturnsAccount" classname="repository.AccountsRepositoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
